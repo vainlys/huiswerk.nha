@@ -1,0 +1,37 @@
+header{ 
+background-color: #00ffffba;
+width: 100%;
+height: 200px;
+}
+#table {
+background-color:rgba(255, 0, 0, 0);
+}
+#cel1 {
+background-color: rgb(20, 193, 220);
+}
+#cel3 {
+background-color: rgb(80, 118, 255);
+}
+#cel5 {
+background-color: rgb(11, 95, 184);
+}
+#cel7 {
+background-color: rgb(107, 147, 212);
+}
+#cel9 {
+background-color: aqua;    
+}
+#cel11 {
+background-color: rgb(118, 118, 207);
+}
+#cel13 {
+background-color: dodgerblue;
+}
+#cel15 {
+background-color: #39248b;
+}
+footer{
+background-color: #3300ff;
+width: 100%;
+height: 200px;
+}
